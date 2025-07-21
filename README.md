@@ -21,9 +21,16 @@ In SQL, UPDATE queries were used to normalize the data, and unfixable rows were 
 A fully interactive dashboard was built in Tableau to communicate key business metrics and trends. Features include product performance, time trends, and payment method distribution.
 
 
+## Preview
+
 <p float="left">
   <img src="https://github.com/DataOla/Cafe_Report/blob/main/Cafe%20Sales%20Dashboard.png" alt="Dashboard" width="700"/>
 </p>
+
+<p float="left">
+  <img src="https://github.com/DataOla/Cafe_Report/blob/main/Cafe%20Sales%20Dashboard%20Annotation.png" alt="Dashboard" width="700"/>
+</p>
+
 
 **[See dashboard here!](https://public.tableau.com/app/profile/olamilekan.lawal3922/viz/CafeSalesDashboard_17530696752750/Home#1)**
 
@@ -46,7 +53,7 @@ A fully interactive dashboard was built in Tableau to communicate key business m
 * Excel Formula - `Preliminary Cleaning in Excel.pdf`
 * SQL Script - `Cafe_Sales.sql`
 * Image of the Dashboard - `Cafe Sales Dashboard.png`
-* Image of the Annotation - `Cafe Sales Dashboard Anno.png`
+* Image of the Annotation - `Cafe Sales Dashboard Annotation.png`
 
 ---
 
