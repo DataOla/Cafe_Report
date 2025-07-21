@@ -24,9 +24,6 @@ A fully interactive dashboard was built in Tableau to communicate key business m
 <p float="left">
   <img src="https://github.com/DataOla/Cafe_Report/blob/main/Cafe%20Sales%20Dashboard.png" alt="Dashboard" width="700"/>
 </p>
-<p float="left">
-  <img src="https://github.com/DataOla/Cafe_Report/blob/main/Cafe%20Sales%20Dashboard%20Anno.png" alt="Dashboard" width="700"/>
-</p>
 
 **[See dashboard here!](https://public.tableau.com/app/profile/olamilekan.lawal3922/viz/CafeSalesDashboard_17530696752750/Home#1)**
 
